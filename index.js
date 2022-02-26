@@ -1,5 +1,5 @@
 
-class CurryConvert {
+export default class CurryConvert {
     
     static me(func) {
         return function curried(...args) {
@@ -12,6 +12,4 @@ class CurryConvert {
             }
         }
     }
-} 
-
-module.exports = CurryConvert;
+}
