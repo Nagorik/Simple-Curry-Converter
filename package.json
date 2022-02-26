@@ -1,0 +1,22 @@
+{
+  "name": "simple-curry-converter",
+  "version": "1.0.0",
+  "description": "This is a simple javascript class that creating a closure that holds onto the value of the original function and its arguments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nagorik/Simple-Curry-Converter.git"
+  },
+  "keywords": [
+    "javascript-currying-pattern"
+  ],
+  "author": "Nagorik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nagorik/Simple-Curry-Converter/issues"
+  },
+  "homepage": "https://github.com/Nagorik/Simple-Curry-Converter#readme"
+}
