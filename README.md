@@ -9,7 +9,7 @@ npm i simple-curry-converter
 
 #Usage
 ```sh
-import CurryConvert from 'simple-curry-converter'
+const CurryConvert = require('simple-curry-converter')
 
 ....
 function sum(a, b, c) {
